@@ -5,5 +5,5 @@ My program is run using the following command,
 
 stack run -- filepath
 
-Here is an example of a file path for a gridlock game: examples\parsing\pass\3x3.gridlock
+Here is an example of a filepath for a gridlock game: examples\parsing\pass\3x3.gridlock
  
